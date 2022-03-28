@@ -1,1 +1,3 @@
-# B7WEB-nodejs-canil
+# Projeto Canil
+
+- Desenvolvido nas aulas de Node na B7WEB;
