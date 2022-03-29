@@ -1,6 +1,6 @@
 # Projeto Canil
 
-- Desenvolvido nas aulas de Node na B7WEB;
+Desenvolvido nas aulas de Node na B7WEB;
 
 ### Pré-requisitos
 
